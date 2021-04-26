@@ -1,6 +1,6 @@
 <pre>
 <?php
-echo hello guys;
+echo "hello guys";
 <br>
 echo `ifconfig`
 ?>
