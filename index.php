@@ -1,7 +1,3 @@
-<pre>
-<?php
-echo "hello guys";
-<br>
-echo `ifconfig`
-?>
-</pre>
+<html>
+<h1>Hello Connections</h1>
+</html>
